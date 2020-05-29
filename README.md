@@ -1,7 +1,7 @@
 >## [Finding Donors for CharityML enhanced](https://github.com/victorlifan/projects_review/tree/master/Finding%20Donors%20for%20CharityML)
 
 ## Project Title
-Finding Donors for CharityML (classification ML project)
+Finding Donors for CharityML (supervised ML project)
 
 ## by Fan Li
 
